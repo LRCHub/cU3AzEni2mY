@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "勇者王誕生！",
+  "base_artist": "遠藤正明",
+  "createdAt": "2025-12-01T17:01:29.696921Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "勇者王誕生! -神話 (マイソロジー) ヴァージョン",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/01_勇者王誕生!_-神話_(マイソロジー)_ヴァージョン_遠藤正明.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "遠藤正明,勇者王誕生! -神話(マイソロジー)ヴァージョン-",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/02_遠藤正明,勇者王誕生!_-神話(マイソロジー)ヴァージョン-_遠藤正明.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "勇者王誕生! -神話(マイソロジー)ヴァージョン-",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/03_勇者王誕生!_-神話(マイソロジー)ヴァージョン-_遠藤正明.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "勇者王誕生! -究極神話(きゅうきょくマイソロジー)ヴァージョン-",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/04_勇者王誕生!_-究極神話(きゅうきょくマイソロジー)ヴァージョン-_遠藤正明.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "遠藤正明,勇者王誕生!",
+      "artist": "遠藤正明",
+      "has_synced": true,
+      "path": "select/05_遠藤正明,勇者王誕生!_遠藤正明.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "勇者王誕生!",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/06_勇者王誕生!_遠藤正明.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "勇者王誕生!(作曲賞)",
+      "artist": "遠藤正明",
+      "has_synced": true,
+      "path": "select/07_勇者王誕生!(作曲賞)_遠藤正明.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "勇者王誕生!-神話(マイソロジー)ヴァージョン～",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/pl_01_勇者王誕生!-神話(マイソロジー)ヴァージョン~_遠藤正明.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "勇者王誕生!",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/pl_02_勇者王誕生!_遠藤正明.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "勇者王誕生!",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/pl_03_勇者王誕生!_遠藤正明.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "勇者王誕生! -御伽噺(ジュブナイル)ヴァージョン- (フルヴァージョン)",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/pl_04_勇者王誕生!_-御伽噺(ジュブナイル)ヴァージョン-_(フルヴァージョン)_遠藤正明.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "勇者王誕生!",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/pl_05_勇者王誕生!_遠藤正明.txt"
+    }
+  ]
+}
